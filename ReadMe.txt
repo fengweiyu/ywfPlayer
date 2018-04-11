@@ -1,0 +1,1 @@
+由于.vs目录过大，无法上传，所以在vs工程下，还需参照https://github.com/fengweiyu/FFmpegAndSDL工程进行配置

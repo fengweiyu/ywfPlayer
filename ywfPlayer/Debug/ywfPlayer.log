@@ -1,0 +1,27 @@
+﻿  ywfPlayerDlg.cpp
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.h(24): warning C4005: “TRACE1”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\atlmfc\include\afx.h(342): note: 参见“TRACE1”的前一个定义
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.h(25): warning C4005: “TRACE2”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\atlmfc\include\afx.h(343): note: 参见“TRACE2”的前一个定义
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.h(26): warning C4005: “TRACE3”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\atlmfc\include\afx.h(344): note: 参见“TRACE3”的前一个定义
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): warning C4002: “TRACE1”宏的实参太多
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(509): warning C4018: “<”: 有符号/无符号不匹配
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“char *”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): note: 请考虑在格式字符串中使用“%hs”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): note: 请考虑在格式字符串中使用“%Ts”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): note: Visual C++ 使用非标准语义时会出现此警告
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): warning C4473: “swprintf_s”: 没有为格式字符串传递足够的参数
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(499): note: 缺失的可变参数 2 为格式字符串“%d”所需
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(561): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(561): note: 请考虑在格式字符串中使用“%hs”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(561): note: 请考虑在格式字符串中使用“%Ts”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(561): note: Visual C++ 使用非标准语义时会出现此警告
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(573): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const char *”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(573): note: 请考虑在格式字符串中使用“%hs”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(573): note: 请考虑在格式字符串中使用“%Ts”
+  q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(573): note: Visual C++ 使用非标准语义时会出现此警告
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(388): warning C4715: “CywfPlayerDlg::RefreshPlayThread”: 不是所有的控件路径都返回值
+q:\ywf\work\ffmpeg\ywfplayer\ywfplayer\ywfplayerdlg.cpp(441): warning C4715: “CywfPlayerDlg::YwfPlayerThread”: 不是所有的控件路径都返回值
+  ywfPlayer.vcxproj -> Q:\ywf\work\FFMPEG\ywfPlayer\Debug\ywfPlayer.exe
